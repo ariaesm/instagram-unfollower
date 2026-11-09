@@ -42,8 +42,8 @@ sent over the network, and the analysis runs entirely on your computer.
 Requires Python 3.11+.
 
 ```bash
-git clone https://github.com/ariaesm/instagram-unfollwer-using-python.git
-cd instagram-unfollwer-using-python
+git clone https://github.com/ariaesm/instagram-unfollower.git
+cd instagram-unfollower
 pip install -r requirements.txt   # only needed to run the tests
 ```
 
