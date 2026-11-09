@@ -1,0 +1,2 @@
+# usernames to ignore (e.g. brands or celebrities you never expect a follow-back from)
+fake_brand_11

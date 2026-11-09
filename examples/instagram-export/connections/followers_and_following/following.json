@@ -1,0 +1,84 @@
+{
+  "relationships_following": [
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fake_alice_01",
+          "value": "fake_alice_01",
+          "timestamp": 1704067200
+        }
+      ]
+    },
+    {
+      "title": "fake_bob_02",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/fake_bob_02",
+          "timestamp": 1706054400
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fake_carol_03",
+          "value": "fake_carol_03",
+          "timestamp": 1708041600
+        }
+      ]
+    },
+    {
+      "title": "fake_dave_04",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/fake_dave_04",
+          "timestamp": 1710028800
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fake_heidi_08",
+          "value": "fake_heidi_08",
+          "timestamp": 1712016000
+        }
+      ]
+    },
+    {
+      "title": "fake_ivan_09",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/fake_ivan_09",
+          "timestamp": 1714003200
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/fake_judy_10",
+          "value": "fake_judy_10",
+          "timestamp": 1715990400
+        }
+      ]
+    },
+    {
+      "title": "fake_brand_11",
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/fake_brand_11",
+          "timestamp": 1717977600
+        }
+      ]
+    }
+  ]
+}
